@@ -1,0 +1,19 @@
+{
+  "id": "cokunkaanaki/exercise-joins-and-unions",
+  "id_no": 126399062,
+  "title": "Exercise: JOINs and UNIONs",
+  "code_file": "risk-analizi.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "stackoverflow/stackoverflow"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
